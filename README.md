@@ -1,4 +1,4 @@
-<h1 align="center"> DSA01 </h1>
+<h1 align="center"> DSA_assignment </h1>
 
 |       |        |
 |-------|--------|
